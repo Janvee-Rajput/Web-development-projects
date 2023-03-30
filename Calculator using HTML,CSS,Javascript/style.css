@@ -1,0 +1,25 @@
+html,body{
+    height:100%;
+    width:100%;
+}
+
+.button{
+    padding:20px;
+    margin:0 3px;
+    border-radius:100px;
+    border:solid black;
+    height:52px;
+    width:52px;
+}
+
+.row{
+    margin:5px 0;
+}
+
+.row input{
+    margin:0;
+    padding:9px 0;
+    font-size: 19px;
+    border:2px solid black;
+    border-radius: 5px;
+}

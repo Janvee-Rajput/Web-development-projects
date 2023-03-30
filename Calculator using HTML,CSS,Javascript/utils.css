@@ -1,0 +1,26 @@
+.text-center{
+    text-align: center;
+}
+
+.bg-color{
+    background-color:black;
+    max-width:250px;
+    border-radius: 10px;
+}
+
+.mx-auto{
+    margin:auto;
+}
+
+.flex{
+    display:flex;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.items-align{
+    align-items: center;
+}
+
